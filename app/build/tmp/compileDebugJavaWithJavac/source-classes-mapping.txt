@@ -1,0 +1,36 @@
+edu/luc/etl/cs313/android/shapes/model/Point.java
+ edu.luc.etl.cs313.android.shapes.model.Point
+edu/luc/etl/cs313/android/shapes/android/DrawWidget.java
+ edu.luc.etl.cs313.android.shapes.android.DrawWidget
+edu/luc/etl/cs313/android/shapes/model/Fixtures.java
+ edu.luc.etl.cs313.android.shapes.model.Fixtures
+edu/luc/etl/cs313/android/shapes/model/Shape.java
+ edu.luc.etl.cs313.android.shapes.model.Shape
+edu/luc/etl/cs313/android/shapes/model/Polygon.java
+ edu.luc.etl.cs313.android.shapes.model.Polygon
+edu/luc/etl/cs313/android/shapes/model/Fill.java
+ edu.luc.etl.cs313.android.shapes.model.Fill
+edu/luc/etl/cs313/android/shapes/android/SimpleDrawActivity.java
+ edu.luc.etl.cs313.android.shapes.android.SimpleDrawActivity
+edu/luc/etl/cs313/android/shapes/model/Visitor.java
+ edu.luc.etl.cs313.android.shapes.model.Visitor
+edu/luc/etl/cs313/android/shapes/model/Count.java
+ edu.luc.etl.cs313.android.shapes.model.Count
+edu/luc/etl/cs313/android/shapes/android/Draw.java
+ edu.luc.etl.cs313.android.shapes.android.Draw
+edu/luc/etl/cs313/android/shapes/model/Outline.java
+ edu.luc.etl.cs313.android.shapes.model.Outline
+edu/luc/etl/cs313/android/shapes/model/Location.java
+ edu.luc.etl.cs313.android.shapes.model.Location
+edu/luc/etl/cs313/android/shapes/model/BoundingBox.java
+ edu.luc.etl.cs313.android.shapes.model.BoundingBox
+edu/luc/etl/cs313/android/shapes/model/Rectangle.java
+ edu.luc.etl.cs313.android.shapes.model.Rectangle
+edu/luc/etl/cs313/android/shapes/model/Group.java
+ edu.luc.etl.cs313.android.shapes.model.Group
+edu/luc/etl/cs313/android/shapes/model/StrokeColor.java
+ edu.luc.etl.cs313.android.shapes.model.StrokeColor
+edu/luc/etl/cs313/android/shapes/android/BuildConfig.java
+ edu.luc.etl.cs313.android.shapes.android.BuildConfig
+edu/luc/etl/cs313/android/shapes/model/Circle.java
+ edu.luc.etl.cs313.android.shapes.model.Circle
